@@ -1,5 +1,4 @@
- # Diseño y analisis de algoritmos 
- ======            
+ #Diseño y analisis de algoritmos        
  El problema de corte bidimensional sin restricciones  
  es el problema de cortar de una lamina plana          
  rectangular un conjunto de piezas rectangulares más   
