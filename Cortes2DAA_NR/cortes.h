@@ -33,6 +33,7 @@ public:
   void mostrar ();
   void mostrarPiezas ();
   void mostrarSol ();
+  
   //--------------------ALGORITMO DE CORTE TIPO GUILLOTINA--------------------------------------
   int maximo (int, int, int);
   void cortes (int, int);

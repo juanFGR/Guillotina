@@ -1,0 +1,2 @@
+UnitTestCase.o: UnitTestCase.cpp UnitTestCase.h ../cortes.h
+cortes.o: ../cortes.cc ../cortes.h

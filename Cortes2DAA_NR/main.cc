@@ -19,8 +19,8 @@ int main () {
   cortes.cortes (large, weight);
   cout << "Mostrando Matriz de Piezas" << endl;
   cortes.mostrarPiezas ();
-  //cout << "Mostrando Matriz de Programacion Dinamica" << endl;
-  //cortes.mostrar ();
+  cout << "Mostrando Matriz de Programacion Dinamica" << endl;
+  cortes.mostrar ();
   cout << "Valor Optimo: " << cortes.getPos (large, weight) << endl;
-  //cortes.mostrarSol ();
+  cortes.mostrarSol ();
 }

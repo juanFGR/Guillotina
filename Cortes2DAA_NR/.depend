@@ -1,0 +1,2 @@
+main.o: main.cc cortes.h
+cortes.o: cortes.cc cortes.h

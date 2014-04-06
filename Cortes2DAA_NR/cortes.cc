@@ -43,8 +43,9 @@ CCortes::CCortes (int l, int w, ifstream &fich){
 }
 
 CCortes::~CCortes () {
-  int l = getLarge ();
-  for (int i = 0; i <= l; i++) {
+ // int l = getLarge ();
+  cout<<"Borrado";
+  for (int i = 0; i <= getLarge (); i++) {
     delete [] matG [i];
   }
   delete [] matG;
